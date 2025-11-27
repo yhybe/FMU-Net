@@ -1,0 +1,3 @@
+Dataset
+Test Dataset：downloading testing dataset and move it into , which can be found in this Google Drive Link (327.2MB). It contains five sub-datsets: CVC-300 (60 test samples), CVC-ClinicDB (62 test samples), CVC-ColonDB (380 test samples), ETIS-LaribPolypDB (196 test samples), Kvasir (100 test samples)../data/TestDataset/
+Train Datasetdownloading training dataset and move it into , which can be found in this Google Drive Link (399.5MB). It contains two sub-datasets: Kvasir-SEG (900 train samples) and CVC-ClinicDB (550 train samples)../data/TrainDataset/
